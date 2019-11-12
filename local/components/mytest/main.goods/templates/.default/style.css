@@ -1,0 +1,19 @@
+#main-goods {
+    width: 500px;
+    margin: 20px auto;
+}
+
+#main-goods form {
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+#main-goods form input, #main-goods form select {
+    width: 100%;
+    margin: 10px 0;
+}
+
+#main-goods form input[type='submit']{
+    cursor: pointer;
+}
